@@ -1,0 +1,4 @@
+conversion/
+**/model_repository/
+**/node_modules/
+**/__pycache__
